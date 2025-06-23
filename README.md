@@ -93,7 +93,7 @@
 ## 📄 Resume
 
 <div align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://github.com/hardiksharmaa/resume/blob/main/MainCv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 </div>
@@ -104,13 +104,13 @@
   <a href="mailto:hs489819@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/hardiksharmaa">
+  <a href="https://www.linkedin.com/in/hardiksh121/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hardiksharmaa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/hardiksharmaa">
+  <a href="https://leetcode.com/u/hardik_sharma12/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
