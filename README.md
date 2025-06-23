@@ -97,13 +97,13 @@ hardik@github:~$ ./welcome.sh
 <p align="center">
   <i>Then uncomment the download button below:</i>
 </p>
-<!-- 
+
 <p align="center">
-  <a href="https://github.com/hardiksharmaa/hardiksharmaa/blob/main/resume/Hardik_Sharma_Resume.pdf" target="_blank">
+  <a href="https://github.com/hardiksharmaa/hardiksharmaa/blob/main/resume/MainCv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
--->
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
