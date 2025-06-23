@@ -47,44 +47,44 @@ hardik@github:~$ ./welcome.sh
     <h2 align="center">🛠️ Tech Stack</h2>
     
     <!-- Languages -->
-    <h3 align="center">Languages</h3>
-    <p align="center" style="display: flex; gap: 9px; justify-content: center; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
+    <h3 align="center">💻 Languages</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </p>
 
     <!-- Frontend -->
-    <h3 align="center">Frontend</h3>
-    <p align="center" style="display: flex; gap: 9px; justify-content: center; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next.js" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS" height="25" />
+    <h3 align="center">🎨 Frontend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     </p>
 
     <!-- Backend -->
-    <h3 align="center">Backend & Database</h3>
-    <p align="center" style="display: flex; gap: 9px; justify-content: center; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node.js" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
+    <h3 align="center">⚙️ Backend & Database</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </p>
 
     <!-- Tools & DevOps -->
-    <h3 align="center">Tools & DevOps</h3>
-    <p align="center" style="display: flex; gap: 9px; justify-content: center; flex-wrap: wrap;">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kubernetes/kubernetes2.svg" alt="Kubernetes" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VSCode/vscode2.svg" alt="VS Code" height="25" />
+    <h3 align="center">🛠️ Tools & DevOps</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </p>
   </div>
 </div>
@@ -92,13 +92,18 @@ hardik@github:~$ ./welcome.sh
 <!-- CV Section -->
 <h2 align="center">📄 My Resume</h2>
 <p align="center">
+  <i>📝 Upload your resume to: <code>/resume/Hardik_Sharma_Resume.pdf</code> in your repository</i>
+</p>
+<p align="center">
+  <i>Then uncomment the download button below:</i>
+</p>
+<!-- 
+<p align="center">
   <a href="https://github.com/hardiksharmaa/hardiksharmaa/blob/main/resume/Hardik_Sharma_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
-<p align="center">
-  <i>📝 Click above to view/download my latest resume</i>
-</p>
+-->
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
@@ -147,12 +152,6 @@ hardik@github:~$ ./welcome.sh
   <a href="https://discord.com/users/hardiksharmaa" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Watch my contributions get eaten by a snake!</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hardiksharmaa/hardiksharmaa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Footer -->
