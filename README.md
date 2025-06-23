@@ -83,13 +83,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=hardiksharmaa&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hardiksharmaa&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+## 📄 Resume
+
+<div align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+  </a>
 </div>
 
 ## 🤝 Connect with me
@@ -97,6 +103,9 @@
 <div align="center">
   <a href="mailto:hs489819@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/hardiksharmaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hardiksharmaa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
