@@ -15,10 +15,7 @@
   </h1>
 </div>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hardiksharmaa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+
 
 <!-- About ME -->
 <div align="center">
