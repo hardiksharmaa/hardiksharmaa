@@ -25,15 +25,13 @@
   hardik@github:~$ ./welcome.sh
   
   🎓 Pursuing a Bachelor's in Computer Science
-  🌱 Currently diving into DevOps and NextJs
+  🌱 Currently diving into DevOps and ReactJs
   💼 Specialize in building robust full-stack applications
   🌟 Proficient in: CPP, JavaScript
   🔎 Can do a bit of Native Android Development
   ✨ Hobbies: Reading webnovels and watching anime
   👨‍💻 Grinding LeetCode 24*7
-  🥅 2024 Goals: Contribute more to Open Source projects
   👾 Love to tinker with Custom ROMS
-  🎯 Prepping for GSOC 2025
   📬 How to reach me: hs489819@gmail.com
   ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
   ```
@@ -78,13 +76,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hardiksharmaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hardiksharmaa&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 📄 Resume
