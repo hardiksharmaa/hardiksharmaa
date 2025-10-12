@@ -81,7 +81,7 @@
 ## 📄 Resume
 
 <div align="center">
-  <a href="https://github.com/hardiksharmaa/resume/blob/main/MainCv.pdf" target="_blank">
+  <a href="https://github.com/hardiksharmaa/resume/blob/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 </div>
