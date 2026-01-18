@@ -71,13 +71,6 @@
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardiksharmaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
 ## 📄 Resume
 
 <div align="center">
