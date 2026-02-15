@@ -18,24 +18,7 @@
 
 
 <!-- About ME -->
-<div align="center">
-  <img align="right" src="https://github.com/DashingAdi/DashingAdi/blob/main/assets/camp.gif" height="287" width="240">
-  
-  ```bash
-  hardik@github:~$ ./welcome.sh
-  
-  🎓 Pursuing a Bachelor's in Computer Science
-  🌱 Currently diving into DevOps and ReactJs
-  💼 Specialize in building robust full-stack applications
-  🌟 Proficient in: CPP, JavaScript
-  🔎 Can do a bit of Native Android Development
-  ✨ Hobbies: Reading webnovels and watching anime
-  👨‍💻 Grinding LeetCode 24*7
-  👾 Love to tinker with Custom ROMS
-  📬 How to reach me: hs489819@gmail.com
-  ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
-  ```
-</div>
+
 
 <br clear="both" />
 
